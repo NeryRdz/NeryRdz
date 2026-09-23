@@ -1,7 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Nery Rodriguez 👋
 
-I'm a **data science enthusiast** on a mission to turn raw data into meaningful insights.  
-Currently building my skills and exploring everything the data world has to offer.
+I'm currently building my skills and exploring everything the data world has to offer.
 
 ---
 
@@ -32,9 +31,9 @@ Currently building my skills and exploring everything the data world has to offe
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeryRdz&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeryRdz&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -45,12 +44,3 @@ Currently building my skills and exploring everything the data world has to offe
 - 🗄️ Practicing complex **SQL queries** and database design
 
 ---
-
-## 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
----
-
-*"Without data, you're just another person with an opinion." — W. Edwards Deming*
