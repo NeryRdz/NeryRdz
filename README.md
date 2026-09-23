@@ -31,11 +31,11 @@ I'm currently building my skills and exploring everything the data world has to 
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeryRdz&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeryRdz&layout=compact&theme=tokyonight&hide_border=true)
-
----
+<div align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=NeryRdz&theme=tokyonight&hide_border=true" height="180"/>
+  &nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NeryRdz&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</div>
 
 ## 🚀 What I'm Working On
 
