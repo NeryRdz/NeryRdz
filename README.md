@@ -32,9 +32,9 @@ I'm currently building my skills and exploring everything the data world has to 
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=NeryRdz&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=NeryRdz&theme=tokyonight&hide_border=true" width="400"/>
   &nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NeryRdz&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NeryRdz&layout=compact&theme=tokyonight&hide_border=true" width="375"/>
 </div>
 
 ## 🚀 What I'm Working On
